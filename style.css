@@ -1,0 +1,72 @@
+header {
+    text-align: center;
+    display: block;
+}
+
+img {
+    width: 15%;
+}
+
+h2 {
+    font-size: 0.8em;
+    padding: 25px;
+    background-color: rgb(255, 249, 240);
+    border-top: 2px solid rgb(255, 200, 118);
+}
+
+h1 {
+    text-align: center;
+}
+
+.one {
+    text-align: left;
+}
+
+main {
+    width: 65%;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+video {
+    border-radius: 25px;
+}
+
+cite {
+    color: rgba(0, 0, 0, 0.259);
+    text-align: center;
+}
+
+#borderSx {
+border-left: 2px solid rgb(255, 200, 118);
+padding-left: 15px;
+}
+
+p.red {
+    
+    margin-bottom: 0;
+    color: red;
+}
+
+hr {
+    color: rgba(58, 215, 215, 0.215);
+
+}
+
+#lastP {
+    padding-left: 25px;
+    
+}
+
+footer {
+    width: 65%;
+        margin-left: auto;
+        margin-right: auto;
+        color: rgba(0, 0, 0, 0.273);
+}
+
+
+
+
+
+
