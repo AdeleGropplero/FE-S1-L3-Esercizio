@@ -12,14 +12,28 @@ h2 {
     padding: 25px;
     background-color: rgb(255, 249, 240);
     border-top: 2px solid rgb(255, 200, 118);
+    
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+        
 }
 
 h1 {
     text-align: center;
+    font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
 }
 
 .one {
     text-align: left;
+    font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
 }
 
 main {
@@ -30,11 +44,14 @@ main {
 
 video {
     border-radius: 25px;
+    width: 95%;
 }
 
 cite {
     color: rgba(0, 0, 0, 0.259);
     text-align: center;
+    display: block;
+    padding-bottom: 30px;
 }
 
 #borderSx {
@@ -48,14 +65,51 @@ p.red {
     color: red;
 }
 
+h3 {
+    font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+}
+
+#space {
+    padding-top:  20px;
+
+}
+
 hr {
     color: rgba(58, 215, 215, 0.215);
 
 }
+caption {
+font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+
+ul li {
+    font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+}
 
 #lastP {
     padding-left: 25px;
-    
+    font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 200;
+        font-style: normal;
+
+}
+
+ol li{
+font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
 
 footer {
